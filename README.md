@@ -1,3 +1,6 @@
+# HySpe_CTEL_AI
+Snapshot Spectral Imaging Face Anti-spoofing Challenge First Place
+
 # Prepare data
 The "data_root" and "img_prefix" in the configuration file(work_dirs/Hy/*) should be specified
 
